@@ -1,10 +1,13 @@
-# flutter_application_1
+# Personal_Expence_Tracker
 
 A new Flutter project.
+For Addig new expences and Managing Yur Budget 
 
-## Getting Started
+## Getting Starte
 
 This project is a starting point for a Flutter application.
+
+Donot Forget To pub get needed packages
 
 A few resources to get you started if this is your first Flutter project:
 
